@@ -1,41 +1,21 @@
-Song,Artist,Release,Style,Value
-like a rolling stone,bob dylan,20-Jul-1965,Key,C
-respect,aretha franklin,10-Mar-1967,Key,C
-smells like teen spirit,nirvana,27-Aug-1991,Key,C#
-a change is gonna come,sam cooke,22-Dec-1964,Key,Bb
-imagine,john lennon,9-Sep-1971,Key,C
-i want to hold your hand,beatles,29-Nov-1963,Key,G
-satisfaction,rolling stones,5-Jun-1965 ,Key,D
-god only knows,beach boys,18-Jul-1966,Key,F#m
-johnny b goode,chuck berry,31-Mar-1958,Key,Bb
-be my baby,ronettes,1-Aug-1963,Key,E
-born to run,bruce springsteen,25-Aug-1975,Key,E
-a day in the life,beatles,26-May-1967,Key,Em
-waterloo sunset,kinks,5-May-1967,Key,C#m
-good vibrations,beach boys,10-Oct-1966,Key,Bbm
-heroes,david bowie,14-Oct-1977,Key,G
-strawberry fields forever,beatles,13-Feb-1967,Key,Bb
-yesterday,beatles,6-Aug-1965,Key,F
-superstition,stevie wonder,24-Oct-1972,Key,C#
-all along the watchtower,jimi hendrix,22-Nov-1968,Key,Ab
-when doves cry,prince,16-May-1984,Key,Am
-like a rolling stone,bob dylan,20-Jul-1965,BPM,95
-respect,aretha franklin,10-Mar-1967,BPM,115
-smells like teen spirit,nirvana,27-Aug-1991,BPM,117
-a change is gonna come,sam cooke,22-Dec-1964,BPM,174
-imagine,john lennon,9-Sep-1971,BPM,76
-i want to hold your hand,beatles,29-Nov-1963,BPM,131
-satisfaction,rolling stones,5-Jun-1965 ,BPM,136
-god only knows,beach boys,18-Jul-1966,BPM,117
-johnny b goode,chuck berry,31-Mar-1958,BPM,168
-be my baby,ronettes,1-Aug-1963,BPM,130
-born to run,bruce springsteen,25-Aug-1975,BPM,146
-a day in the life,beatles,26-May-1967,BPM,163
-waterloo sunset,kinks,5-May-1967,BPM,108
-good vibrations,beach boys,10-Oct-1966,BPM,133
-heroes,david bowie,14-Oct-1977,BPM,112
-strawberry fields forever,beatles,13-Feb-1967,BPM,98
-yesterday,beatles,6-Aug-1965,BPM,97
-superstition,stevie wonder,24-Oct-1972,BPM,101
-all along the watchtower,jimi hendrix,22-Nov-1968,BPM,113
-when doves cry,prince,16-May-1984,BPM,126
+"","Song","Artist","Release","Month","Key","BPM"
+"1","like a rolling stone","bob dylan",1965-07-20,"Jul","C","95"
+"2","respect","aretha franklin",1967-03-10,"Mar","C","115"
+"3","smells like teen spirit","nirvana",1991-08-27,"Aug","C#","117"
+"4","a change is gonna come","sam cooke",1964-12-22,"Dec","Bb","174"
+"5","imagine","john lennon",1971-09-09,"Sep","C","76"
+"6","i want to hold your hand","beatles",1963-11-29,"Nov","G","131"
+"7","satisfaction","rolling stones",1965-06-05,"Jun","D","136"
+"8","god only knows","beach boys",1966-07-18,"Jul","F#m","117"
+"9","johnny b goode","chuck berry",1958-03-31,"Mar","Bb","168"
+"10","be my baby","ronettes",1963-08-01,"Aug","E","130"
+"11","born to run","bruce springsteen",1975-08-25,"Aug","E","146"
+"12","a day in the life","beatles",1967-05-26,"May","Em","163"
+"13","waterloo sunset","kinks",1967-05-05,"May","C#m","108"
+"14","good vibrations","beach boys",1966-10-10,"Oct","Bbm","133"
+"15","heroes","david bowie",1977-10-14,"Oct","G","112"
+"16","strawberry fields forever","beatles",1967-02-13,"Feb","Bb","98"
+"17","yesterday","beatles",1965-08-06,"Aug","F","97"
+"18","superstition","stevie wonder",1972-10-24,"Oct","C#","101"
+"19","all along the watchtower","jimi hendrix",1968-11-22,"Nov","Ab","113"
+"20","when doves cry","prince",1984-05-16,"May","Am","126"
